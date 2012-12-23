@@ -1,6 +1,4 @@
-#@TACIXAT WAS HERE
-
-#based on http://playingwithothers.com/2012/12/20/decoding-xor-shellcode-without-a-key/
+#@TACIXAT
 #term you want to serch for goes in search variable
 #suspected encrypted message goes in encrypted variable
 
